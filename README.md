@@ -229,3 +229,11 @@ foreach($ip in @('162.159.142.9','172.66.2.5','104.16.0.0')){
 ## License
 
 文档内容采用 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 许可。
+
+---
+
+## 相关链接
+
+- **CSDN 中文版（含截图与完整排查过程）**：https://blog.csdn.net/2401_88602546/article/details/168548649
+- Cisco Learning Network 上的同名问题帖：[Packet Tracer 9.0.1 Error: qsvg.dll cannot be verified](https://learningnetwork.cisco.com/s/question/0D5QO00002c1Nry0AE/packet-tracer-901-error-the-required-dll-cprogram-filescisco-packet-tracer-901binimageformatsqsvgdll-cannot-be-verified)
+- 排查环境：Windows 11 23H2 + Packet Tracer 9.0.1.0858
